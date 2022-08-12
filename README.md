@@ -1,8 +1,6 @@
 # Elastic APM with applications for Test
 
-Elastic APM 환경 구성 + Spring Boot 이용
-
-* ElasticSearch, Kibana, APM Server - 7.17.4
+ElasticSearch, Kibana, APM Server - 7.17.4
 
 ## 이용 방법
 
