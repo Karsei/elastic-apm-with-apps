@@ -1,9 +1,10 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
+import { ApmModule } from 'nestjs-elastic-apm';
 
 @Module({
-  imports: [],
+  imports: [ApmModule.register()],
   controllers: [AppController],
   providers: [AppService],
 })
