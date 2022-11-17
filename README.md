@@ -1,4 +1,4 @@
-# Elastic APM with applications for Test
+# Elastic APM with Apps Demo
 
 ElasticSearch, Kibana, APM Server - 7.17.4
 
